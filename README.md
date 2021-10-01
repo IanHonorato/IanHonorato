@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Ian-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="Ian-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Ian-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Ian-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
+  <img align="center" alt="Ian-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
   
   ##
@@ -42,6 +42,12 @@ Here are some ideas to get you started:
     <a href="https://gitlab.com/IanHonorato" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   </div>
   
+  ##
+  
+  <div>
+    <img src="https://media.giphy.com/media/BajEaEYjuKfny/giphy.gif" width="252" height="142" />
+  </div>
+  
   ## 
   
   <div>
@@ -50,7 +56,3 @@ Here are some ideas to get you started:
   </div>
   
   ##
-  
-  <div>
-    
-  </div>
