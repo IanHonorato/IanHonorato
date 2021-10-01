@@ -52,5 +52,5 @@ Here are some ideas to get you started:
   ##
   
   <div>
-    [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/1pLml7vXQZzhwvzgvBUn19)
+    [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)] (https://open.spotify.com/embed/playlist/1pLml7vXQZzhwvzgvBUn19)
   </div>
