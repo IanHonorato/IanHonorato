@@ -51,8 +51,8 @@ Here are some ideas to get you started:
   ## 
   
   <div>
-    <img src="https://img.shields.io/badge/NVIDIA-GTX1070-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-    <img src="https://img.shields.io/badge/AMD-Ryzen_7_1800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+    <img src="https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    <img src="https://img.shields.io/badge/AMD-Ryzen_9_7900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
   </div>
   
   ##
